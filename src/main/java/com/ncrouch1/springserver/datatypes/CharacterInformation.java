@@ -1,4 +1,4 @@
-package com.ncrouch1.springserver.models;
+package com.ncrouch1.springserver.datatypes;
 
 import com.ncrouch1.springserver.constants.Constants;
 
@@ -6,7 +6,6 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.Scanner;
 
 
 public class CharacterInformation {

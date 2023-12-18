@@ -1,7 +1,3 @@
-{
-    "CharacterInfo": {
-        "name": "Genji Shimada",
-        "role": "Damage",
-        "Affiliaton": "Overwatch"
-    }
-}
+name: Genji
+role: Damage
+affiliation: Overwatch
